@@ -1,0 +1,2530 @@
+Amsterdam	KP	3
+Atlanta	KP	3
+Bangkok	KP	1
+Barcelona	KP	1
+Beijing	KP	1
+Berlin	KP	2
+Boston	KP	3
+Brussels	KP	2
+Budapest	KP	1
+Buenos Aires	KP	2
+Caracas	KP	2
+Chicago	KP	3
+Copenhagen	KP	3
+Dallas	KP	3
+Dusseldorf	KP	3
+Frankfurt	KP	3
+Geneva	KP	1
+Hamburg	KP	2
+Hong Kong	KP	3
+Houston	KP	2
+Istanbul	KP	1
+Jakarta	KP	2
+Johannesburg	KP	3
+Kuala Lumpur	KP	2
+London	KP	3
+Los Angeles	KP	3
+Madrid	KP	2
+Manila	KP	1
+Melbourne	KP	3
+Mexico City	KP	2
+Miami	KP	2
+Milan	KP	2
+Minneapolis	KP	2
+Montreal	KP	3
+Moscow	KP	2
+Munich	KP	2
+New York	KP	3
+Osaka	KP	1
+Paris	KP	3
+Prague	KP	1
+Rome	KP	1
+San Francisco	KP	3
+Sao Paulo	KP	2
+Santiago	KP	1
+Seoul	KP	2
+Shanghai	KP	1
+Singapore	KP	2
+Stockholm	KP	3
+Sydney	KP	3
+Taipei	KP	2
+Tokyo	KP	3
+Toronto	KP	3
+Warsaw	KP	1
+Washington, DC	KP	3
+Zurich	KP	2
+Amsterdam	CL	3
+Atlanta	CL	3
+Bangkok	CL	1
+Barcelona	CL	1
+Beijing	CL	1
+Berlin	CL	3
+Boston	CL	3
+Brussels	CL	3
+Budapest	CL	2
+Buenos Aires	CL	2
+Caracas	CL	1
+Chicago	CL	3
+Copenhagen	CL	2
+Dallas	CL	2
+Dusseldorf	CL	3
+Frankfurt	CL	3
+Geneva	CL	2
+Hamburg	CL	3
+Hong Kong	CL	3
+Houston	CL	2
+Istanbul	CL	1
+Jakarta	CL	2
+Johannesburg	CL	3
+Kuala Lumpur	CL	1
+London	CL	3
+Los Angeles	CL	2
+Madrid	CL	2
+Manila	CL	1
+Melbourne	CL	3
+Mexico City	CL	3
+Miami	CL	1
+Milan	CL	3
+Minneapolis	CL	2
+Montreal	CL	2
+Moscow	CL	1
+Munich	CL	2
+New York	CL	3
+Osaka	CL	2
+Paris	CL	3
+Prague	CL	1
+Rome	CL	1
+San Francisco	CL	3
+Sao Paulo	CL	2
+Santiago	CL	2
+Seoul	CL	2
+Shanghai	CL	1
+Singapore	CL	2
+Stockholm	CL	3
+Sydney	CL	3
+Taipei	CL	2
+Tokyo	CL	3
+Toronto	CL	3
+Warsaw	CL	1
+Washington, DC	CL	3
+Zurich	CL	2
+Amsterdam	EY	1
+Atlanta	EY	2
+Bangkok	EY	1
+Barcelona	EY	1
+Beijing	EY	1
+Berlin	EY	2
+Boston	EY	2
+Brussels	EY	3
+Budapest	EY	1
+Buenos Aires	EY	1
+Caracas	EY	2
+Chicago	EY	3
+Copenhagen	EY	2
+Dallas	EY	3
+Dusseldorf	EY	3
+Frankfurt	EY	2
+Geneva	EY	1
+Hamburg	EY	3
+Hong Kong	EY	3
+Houston	EY	2
+Istanbul	EY	1
+Jakarta	EY	2
+Johannesburg	EY	2
+Kuala Lumpur	EY	2
+London	EY	3
+Los Angeles	EY	2
+Madrid	EY	2
+Manila	EY	1
+Melbourne	EY	1
+Mexico City	EY	3
+Miami	EY	2
+Milan	EY	3
+Minneapolis	EY	1
+Montreal	EY	3
+Moscow	EY	1
+Munich	EY	3
+New York	EY	3
+Osaka	EY	2
+Paris	EY	3
+Prague	EY	1
+Rome	EY	3
+San Francisco	EY	3
+Sao Paulo	EY	2
+Santiago	EY	2
+Seoul	EY	2
+Shanghai	EY	1
+Singapore	EY	1
+Stockholm	EY	2
+Sydney	EY	3
+Taipei	EY	2
+Tokyo	EY	3
+Toronto	EY	3
+Warsaw	EY	2
+Washington, DC	EY	3
+Zurich	EY	3
+Amsterdam	AA	1
+Atlanta	AA	2
+Bangkok	AA	2
+Barcelona	AA	1
+Beijing	AA	1
+Berlin	AA	2
+Boston	AA	1
+Brussels	AA	1
+Budapest	AA	1
+Buenos Aires	AA	1
+Caracas	AA	1
+Chicago	AA	2
+Copenhagen	AA	1
+Dallas	AA	1
+Dusseldorf	AA	2
+Frankfurt	AA	2
+Geneva	AA	1
+Hamburg	AA	2
+Hong Kong	AA	1
+Houston	AA	1
+Istanbul	AA	1
+Jakarta	AA	1
+Johannesburg	AA	1
+Kuala Lumpur	AA	2
+London	AA	3
+Los Angeles	AA	2
+Madrid	AA	1
+Manila	AA	1
+Melbourne	AA	1
+Mexico City	AA	1
+Miami	AA	1
+Milan	AA	2
+Minneapolis	AA	1
+Montreal	AA	2
+Moscow	AA	2
+Munich	AA	2
+New York	AA	2
+Osaka	AA	3
+Paris	AA	2
+Prague	AA	1
+Rome	AA	2
+San Francisco	AA	1
+Sao Paulo	AA	1
+Santiago	AA	1
+Seoul	AA	1
+Shanghai	AA	1
+Singapore	AA	1
+Stockholm	AA	1
+Sydney	AA	2
+Taipei	AA	1
+Tokyo	AA	2
+Toronto	AA	2
+Warsaw	AA	1
+Washington, DC	AA	2
+Zurich	AA	1
+Amsterdam	PW	3
+Atlanta	PW	2
+Bangkok	PW	2
+Barcelona	PW	2
+Beijing	PW	2
+Berlin	PW	1
+Boston	PW	1
+Brussels	PW	3
+Budapest	PW	1
+Buenos Aires	PW	1
+Caracas	PW	1
+Chicago	PW	2
+Copenhagen	PW	2
+Dallas	PW	2
+Dusseldorf	PW	3
+Frankfurt	PW	2
+Geneva	PW	2
+Hamburg	PW	1
+Hong Kong	PW	1
+Houston	PW	1
+Istanbul	PW	1
+Jakarta	PW	2
+Johannesburg	PW	2
+Kuala Lumpur	PW	1
+London	PW	3
+Los Angeles	PW	2
+Madrid	PW	3
+Manila	PW	2
+Melbourne	PW	2
+Mexico City	PW	1
+Miami	PW	1
+Milan	PW	3
+Minneapolis	PW	1
+Montreal	PW	1
+Moscow	PW	2
+Munich	PW	1
+New York	PW	3
+Osaka	PW	2
+Paris	PW	3
+Prague	PW	1
+Rome	PW	2
+San Francisco	PW	2
+Sao Paulo	PW	2
+Santiago	PW	3
+Seoul	PW	3
+Shanghai	PW	2
+Singapore	PW	2
+Stockholm	PW	1
+Sydney	PW	2
+Taipei	PW	1
+Tokyo	PW	3
+Toronto	PW	3
+Warsaw	PW	1
+Washington, DC	PW	2
+Zurich	PW	2
+Amsterdam	GR	1
+Atlanta	GR	0
+Bangkok	GR	1
+Barcelona	GR	1
+Beijing	GR	0
+Berlin	GR	0
+Boston	GR	0
+Brussels	GR	1
+Budapest	GR	0
+Buenos Aires	GR	1
+Caracas	GR	1
+Chicago	GR	0
+Copenhagen	GR	1
+Dallas	GR	0
+Dusseldorf	GR	1
+Frankfurt	GR	1
+Geneva	GR	1
+Hamburg	GR	1
+Hong Kong	GR	1
+Houston	GR	0
+Istanbul	GR	0
+Jakarta	GR	0
+Johannesburg	GR	0
+Kuala Lumpur	GR	1
+London	GR	1
+Los Angeles	GR	1
+Madrid	GR	1
+Manila	GR	1
+Melbourne	GR	1
+Mexico City	GR	1
+Miami	GR	0
+Milan	GR	1
+Minneapolis	GR	0
+Montreal	GR	1
+Moscow	GR	0
+Munich	GR	0
+New York	GR	1
+Osaka	GR	0
+Paris	GR	1
+Prague	GR	0
+Rome	GR	0
+San Francisco	GR	1
+Sao Paulo	GR	1
+Santiago	GR	1
+Seoul	GR	0
+Shanghai	GR	0
+Singapore	GR	1
+Stockholm	GR	1
+Sydney	GR	1
+Taipei	GR	1
+Tokyo	GR	1
+Toronto	GR	1
+Warsaw	GR	0
+Washington, DC	GR	0
+Zurich	GR	1
+Amsterdam	DM	1
+Atlanta	DM	0
+Bangkok	DM	1
+Barcelona	DM	1
+Beijing	DM	1
+Berlin	DM	0
+Boston	DM	0
+Brussels	DM	1
+Budapest	DM	1
+Buenos Aires	DM	1
+Caracas	DM	1
+Chicago	DM	0
+Copenhagen	DM	1
+Dallas	DM	0
+Dusseldorf	DM	1
+Frankfurt	DM	1
+Geneva	DM	1
+Hamburg	DM	1
+Hong Kong	DM	1
+Houston	DM	0
+Istanbul	DM	1
+Jakarta	DM	1
+Johannesburg	DM	1
+Kuala Lumpur	DM	1
+London	DM	1
+Los Angeles	DM	1
+Madrid	DM	1
+Manila	DM	1
+Melbourne	DM	0
+Mexico City	DM	1
+Miami	DM	0
+Milan	DM	1
+Minneapolis	DM	0
+Montreal	DM	1
+Moscow	DM	1
+Munich	DM	0
+New York	DM	1
+Osaka	DM	0
+Paris	DM	1
+Prague	DM	1
+Rome	DM	1
+San Francisco	DM	1
+Sao Paulo	DM	1
+Santiago	DM	1
+Seoul	DM	1
+Shanghai	DM	1
+Singapore	DM	1
+Stockholm	DM	1
+Sydney	DM	1
+Taipei	DM	1
+Tokyo	DM	1
+Toronto	DM	1
+Warsaw	DM	1
+Washington, DC	DM	0
+Zurich	DM	1
+Amsterdam	LH	1
+Atlanta	LH	0
+Bangkok	LH	0
+Barcelona	LH	1
+Beijing	LH	0
+Berlin	LH	0
+Boston	LH	0
+Brussels	LH	1
+Budapest	LH	1
+Buenos Aires	LH	0
+Caracas	LH	1
+Chicago	LH	0
+Copenhagen	LH	1
+Dallas	LH	0
+Dusseldorf	LH	1
+Frankfurt	LH	1
+Geneva	LH	0
+Hamburg	LH	1
+Hong Kong	LH	1
+Houston	LH	0
+Istanbul	LH	1
+Jakarta	LH	0
+Johannesburg	LH	0
+Kuala Lumpur	LH	0
+London	LH	1
+Los Angeles	LH	0
+Madrid	LH	1
+Manila	LH	0
+Melbourne	LH	0
+Mexico City	LH	1
+Miami	LH	0
+Milan	LH	1
+Minneapolis	LH	0
+Montreal	LH	0
+Moscow	LH	1
+Munich	LH	0
+New York	LH	1
+Osaka	LH	0
+Paris	LH	1
+Prague	LH	1
+Rome	LH	0
+San Francisco	LH	0
+Sao Paulo	LH	1
+Santiago	LH	0
+Seoul	LH	0
+Shanghai	LH	0
+Singapore	LH	1
+Stockholm	LH	1
+Sydney	LH	0
+Taipei	LH	0
+Tokyo	LH	0
+Toronto	LH	1
+Warsaw	LH	1
+Washington, DC	LH	0
+Zurich	LH	1
+Amsterdam	SS	1
+Atlanta	SS	0
+Bangkok	SS	1
+Barcelona	SS	1
+Beijing	SS	1
+Berlin	SS	0
+Boston	SS	0
+Brussels	SS	1
+Budapest	SS	1
+Buenos Aires	SS	1
+Caracas	SS	1
+Chicago	SS	0
+Copenhagen	SS	1
+Dallas	SS	0
+Dusseldorf	SS	0
+Frankfurt	SS	1
+Geneva	SS	0
+Hamburg	SS	0
+Hong Kong	SS	1
+Houston	SS	0
+Istanbul	SS	1
+Jakarta	SS	1
+Johannesburg	SS	1
+Kuala Lumpur	SS	1
+London	SS	1
+Los Angeles	SS	1
+Madrid	SS	1
+Manila	SS	1
+Melbourne	SS	1
+Mexico City	SS	1
+Miami	SS	1
+Milan	SS	0
+Minneapolis	SS	0
+Montreal	SS	0
+Moscow	SS	1
+Munich	SS	0
+New York	SS	1
+Osaka	SS	0
+Paris	SS	1
+Prague	SS	1
+Rome	SS	0
+San Francisco	SS	1
+Sao Paulo	SS	1
+Santiago	SS	1
+Seoul	SS	1
+Shanghai	SS	1
+Singapore	SS	1
+Stockholm	SS	1
+Sydney	SS	1
+Taipei	SS	1
+Tokyo	SS	1
+Toronto	SS	1
+Warsaw	SS	0
+Washington, DC	SS	0
+Zurich	SS	1
+Amsterdam	TH	1
+Atlanta	TH	1
+Bangkok	TH	1
+Barcelona	TH	1
+Beijing	TH	1
+Berlin	TH	0
+Boston	TH	0
+Brussels	TH	1
+Budapest	TH	1
+Buenos Aires	TH	1
+Caracas	TH	1
+Chicago	TH	1
+Copenhagen	TH	1
+Dallas	TH	1
+Dusseldorf	TH	0
+Frankfurt	TH	1
+Geneva	TH	0
+Hamburg	TH	1
+Hong Kong	TH	1
+Houston	TH	1
+Istanbul	TH	1
+Jakarta	TH	1
+Johannesburg	TH	1
+Kuala Lumpur	TH	1
+London	TH	1
+Los Angeles	TH	1
+Madrid	TH	1
+Manila	TH	1
+Melbourne	TH	1
+Mexico City	TH	1
+Miami	TH	1
+Milan	TH	1
+Minneapolis	TH	1
+Montreal	TH	1
+Moscow	TH	1
+Munich	TH	0
+New York	TH	1
+Osaka	TH	0
+Paris	TH	1
+Prague	TH	1
+Rome	TH	1
+San Francisco	TH	1
+Sao Paulo	TH	1
+Santiago	TH	0
+Seoul	TH	1
+Shanghai	TH	1
+Singapore	TH	1
+Stockholm	TH	1
+Sydney	TH	1
+Taipei	TH	1
+Tokyo	TH	1
+Toronto	TH	1
+Warsaw	TH	1
+Washington, DC	TH	0
+Zurich	TH	1
+Amsterdam	OM	1
+Atlanta	OM	0
+Bangkok	OM	1
+Barcelona	OM	1
+Beijing	OM	1
+Berlin	OM	0
+Boston	OM	0
+Brussels	OM	1
+Budapest	OM	1
+Buenos Aires	OM	1
+Caracas	OM	1
+Chicago	OM	1
+Copenhagen	OM	1
+Dallas	OM	0
+Dusseldorf	OM	0
+Frankfurt	OM	1
+Geneva	OM	0
+Hamburg	OM	0
+Hong Kong	OM	1
+Houston	OM	0
+Istanbul	OM	1
+Jakarta	OM	1
+Johannesburg	OM	1
+Kuala Lumpur	OM	1
+London	OM	1
+Los Angeles	OM	1
+Madrid	OM	1
+Manila	OM	1
+Melbourne	OM	0
+Mexico City	OM	1
+Miami	OM	1
+Milan	OM	1
+Minneapolis	OM	0
+Montreal	OM	0
+Moscow	OM	0
+Munich	OM	0
+New York	OM	1
+Osaka	OM	0
+Paris	OM	1
+Prague	OM	1
+Rome	OM	0
+San Francisco	OM	0
+Sao Paulo	OM	1
+Santiago	OM	1
+Seoul	OM	1
+Shanghai	OM	0
+Singapore	OM	1
+Stockholm	OM	1
+Sydney	OM	1
+Taipei	OM	1
+Tokyo	OM	1
+Toronto	OM	1
+Warsaw	OM	1
+Washington, DC	OM	0
+Zurich	OM	1
+Amsterdam	DE	1
+Atlanta	DE	0
+Bangkok	DE	3
+Barcelona	DE	0
+Beijing	DE	3
+Berlin	DE	0
+Boston	DE	2
+Brussels	DE	2
+Budapest	DE	1
+Buenos Aires	DE	0
+Caracas	DE	0
+Chicago	DE	0
+Copenhagen	DE	0
+Dallas	DE	0
+Dusseldorf	DE	3
+Frankfurt	DE	0
+Geneva	DE	0
+Hamburg	DE	0
+Hong Kong	DE	2
+Houston	DE	0
+Istanbul	DE	2
+Jakarta	DE	2
+Johannesburg	DE	0
+Kuala Lumpur	DE	2
+London	DE	3
+Los Angeles	DE	3
+Madrid	DE	1
+Manila	DE	1
+Melbourne	DE	2
+Mexico City	DE	0
+Miami	DE	0
+Milan	DE	1
+Minneapolis	DE	0
+Montreal	DE	0
+Moscow	DE	1
+Munich	DE	0
+New York	DE	3
+Osaka	DE	0
+Paris	DE	2
+Prague	DE	0
+Rome	DE	0
+San Francisco	DE	0
+Sao Paulo	DE	0
+Santiago	DE	0
+Seoul	DE	2
+Shanghai	DE	3
+Singapore	DE	3
+Stockholm	DE	0
+Sydney	DE	3
+Taipei	DE	3
+Tokyo	DE	0
+Toronto	DE	1
+Warsaw	DE	0
+Washington, DC	DE	0
+Zurich	DE	0
+Amsterdam	YR	0
+Atlanta	YR	0
+Bangkok	YR	0
+Barcelona	YR	0
+Beijing	YR	0
+Berlin	YR	0
+Boston	YR	0
+Brussels	YR	1
+Budapest	YR	2
+Buenos Aires	YR	1
+Caracas	YR	2
+Chicago	YR	1
+Copenhagen	YR	2
+Dallas	YR	0
+Dusseldorf	YR	0
+Frankfurt	YR	1
+Geneva	YR	1
+Hamburg	YR	0
+Hong Kong	YR	2
+Houston	YR	0
+Istanbul	YR	1
+Jakarta	YR	0
+Johannesburg	YR	2
+Kuala Lumpur	YR	0
+London	YR	2
+Los Angeles	YR	1
+Madrid	YR	2
+Manila	YR	0
+Melbourne	YR	1
+Mexico City	YR	2
+Miami	YR	2
+Milan	YR	3
+Minneapolis	YR	0
+Montreal	YR	1
+Moscow	YR	1
+Munich	YR	0
+New York	YR	3
+Osaka	YR	0
+Paris	YR	0
+Prague	YR	2
+Rome	YR	0
+San Francisco	YR	2
+Sao Paulo	YR	3
+Santiago	YR	2
+Seoul	YR	0
+Shanghai	YR	0
+Singapore	YR	2
+Stockholm	YR	2
+Sydney	YR	2
+Taipei	YR	0
+Tokyo	YR	2
+Toronto	YR	1
+Warsaw	YR	1
+Washington, DC	YR	0
+Zurich	YR	2
+Amsterdam	TM	0
+Atlanta	TM	1
+Bangkok	TM	0
+Barcelona	TM	0
+Beijing	TM	0
+Berlin	TM	0
+Boston	TM	0
+Brussels	TM	1
+Budapest	TM	0
+Buenos Aires	TM	0
+Caracas	TM	0
+Chicago	TM	2
+Copenhagen	TM	0
+Dallas	TM	2
+Dusseldorf	TM	0
+Frankfurt	TM	0
+Geneva	TM	0
+Hamburg	TM	0
+Hong Kong	TM	0
+Houston	TM	0
+Istanbul	TM	0
+Jakarta	TM	0
+Johannesburg	TM	0
+Kuala Lumpur	TM	0
+London	TM	3
+Los Angeles	TM	3
+Madrid	TM	1
+Manila	TM	0
+Melbourne	TM	1
+Mexico City	TM	0
+Miami	TM	2
+Milan	TM	1
+Minneapolis	TM	1
+Montreal	TM	2
+Moscow	TM	0
+Munich	TM	0
+New York	TM	3
+Osaka	TM	0
+Paris	TM	1
+Prague	TM	0
+Rome	TM	0
+San Francisco	TM	1
+Sao Paulo	TM	0
+Santiago	TM	0
+Seoul	TM	0
+Shanghai	TM	0
+Singapore	TM	0
+Stockholm	TM	0
+Sydney	TM	0
+Taipei	TM	0
+Tokyo	TM	1
+Toronto	TM	2
+Warsaw	TM	0
+Washington, DC	TM	1
+Zurich	TM	0
+Amsterdam	PU	3
+Atlanta	PU	0
+Bangkok	PU	1
+Barcelona	PU	2
+Beijing	PU	1
+Berlin	PU	1
+Boston	PU	3
+Brussels	PU	3
+Budapest	PU	1
+Buenos Aires	PU	1
+Caracas	PU	0
+Chicago	PU	0
+Copenhagen	PU	2
+Dallas	PU	2
+Dusseldorf	PU	3
+Frankfurt	PU	2
+Geneva	PU	0
+Hamburg	PU	1
+Hong Kong	PU	0
+Houston	PU	0
+Istanbul	PU	2
+Jakarta	PU	1
+Johannesburg	PU	1
+Kuala Lumpur	PU	0
+London	PU	3
+Los Angeles	PU	0
+Madrid	PU	3
+Manila	PU	2
+Melbourne	PU	2
+Mexico City	PU	1
+Miami	PU	0
+Milan	PU	3
+Minneapolis	PU	0
+Montreal	PU	3
+Moscow	PU	1
+Munich	PU	1
+New York	PU	1
+Osaka	PU	0
+Paris	PU	3
+Prague	PU	2
+Rome	PU	1
+San Francisco	PU	2
+Sao Paulo	PU	2
+Santiago	PU	1
+Seoul	PU	1
+Shanghai	PU	0
+Singapore	PU	2
+Stockholm	PU	3
+Sydney	PU	3
+Taipei	PU	0
+Tokyo	PU	0
+Toronto	PU	3
+Warsaw	PU	3
+Washington, DC	PU	0
+Zurich	PU	2
+Amsterdam	AM	3
+Atlanta	AM	0
+Bangkok	AM	1
+Barcelona	AM	3
+Beijing	AM	1
+Berlin	AM	1
+Boston	AM	0
+Brussels	AM	3
+Budapest	AM	1
+Buenos Aires	AM	1
+Caracas	AM	1
+Chicago	AM	1
+Copenhagen	AM	3
+Dallas	AM	0
+Dusseldorf	AM	3
+Frankfurt	AM	1
+Geneva	AM	0
+Hamburg	AM	3
+Hong Kong	AM	1
+Houston	AM	0
+Istanbul	AM	3
+Jakarta	AM	2
+Johannesburg	AM	1
+Kuala Lumpur	AM	1
+London	AM	3
+Los Angeles	AM	2
+Madrid	AM	3
+Manila	AM	1
+Melbourne	AM	3
+Mexico City	AM	1
+Miami	AM	1
+Milan	AM	2
+Minneapolis	AM	1
+Montreal	AM	1
+Moscow	AM	1
+Munich	AM	2
+New York	AM	3
+Osaka	AM	0
+Paris	AM	3
+Prague	AM	3
+Rome	AM	0
+San Francisco	AM	0
+Sao Paulo	AM	1
+Santiago	AM	2
+Seoul	AM	2
+Shanghai	AM	1
+Singapore	AM	1
+Stockholm	AM	3
+Sydney	AM	3
+Taipei	AM	1
+Tokyo	AM	1
+Toronto	AM	3
+Warsaw	AM	1
+Washington, DC	AM	0
+Zurich	AM	2
+Amsterdam	HS	2
+Atlanta	HS	0
+Bangkok	HS	2
+Barcelona	HS	1
+Beijing	HS	1
+Berlin	HS	0
+Boston	HS	2
+Brussels	HS	0
+Budapest	HS	1
+Buenos Aires	HS	2
+Caracas	HS	1
+Chicago	HS	2
+Copenhagen	HS	0
+Dallas	HS	2
+Dusseldorf	HS	2
+Frankfurt	HS	1
+Geneva	HS	2
+Hamburg	HS	0
+Hong Kong	HS	3
+Houston	HS	2
+Istanbul	HS	2
+Jakarta	HS	1
+Johannesburg	HS	2
+Kuala Lumpur	HS	3
+London	HS	3
+Los Angeles	HS	2
+Madrid	HS	2
+Manila	HS	2
+Melbourne	HS	2
+Mexico City	HS	2
+Miami	HS	0
+Milan	HS	1
+Minneapolis	HS	0
+Montreal	HS	2
+Moscow	HS	2
+Munich	HS	0
+New York	HS	3
+Osaka	HS	1
+Paris	HS	2
+Prague	HS	2
+Rome	HS	1
+San Francisco	HS	2
+Sao Paulo	HS	2
+Santiago	HS	2
+Seoul	HS	2
+Shanghai	HS	2
+Singapore	HS	3
+Stockholm	HS	2
+Sydney	HS	2
+Taipei	HS	2
+Tokyo	HS	2
+Toronto	HS	2
+Warsaw	HS	1
+Washington, DC	HS	2
+Zurich	HS	2
+Amsterdam	BA	2
+Atlanta	BA	0
+Bangkok	BA	2
+Barcelona	BA	3
+Beijing	BA	1
+Berlin	BA	1
+Boston	BA	0
+Brussels	BA	2
+Budapest	BA	1
+Buenos Aires	BA	1
+Caracas	BA	1
+Chicago	BA	2
+Copenhagen	BA	0
+Dallas	BA	0
+Dusseldorf	BA	1
+Frankfurt	BA	2
+Geneva	BA	2
+Hamburg	BA	1
+Hong Kong	BA	3
+Houston	BA	0
+Istanbul	BA	0
+Jakarta	BA	2
+Johannesburg	BA	0
+Kuala Lumpur	BA	3
+London	BA	3
+Los Angeles	BA	0
+Madrid	BA	3
+Manila	BA	1
+Melbourne	BA	2
+Mexico City	BA	1
+Miami	BA	0
+Milan	BA	2
+Minneapolis	BA	0
+Montreal	BA	1
+Moscow	BA	1
+Munich	BA	2
+New York	BA	3
+Osaka	BA	1
+Paris	BA	3
+Prague	BA	1
+Rome	BA	2
+San Francisco	BA	2
+Sao Paulo	BA	2
+Santiago	BA	1
+Seoul	BA	2
+Shanghai	BA	0
+Singapore	BA	3
+Stockholm	BA	0
+Sydney	BA	3
+Taipei	BA	2
+Tokyo	BA	3
+Toronto	BA	2
+Warsaw	BA	1
+Washington, DC	BA	1
+Zurich	BA	1
+Amsterdam	NW	1
+Atlanta	NW	0
+Bangkok	NW	1
+Barcelona	NW	0
+Beijing	NW	1
+Berlin	NW	0
+Boston	NW	1
+Brussels	NW	0
+Budapest	NW	0
+Buenos Aires	NW	1
+Caracas	NW	0
+Chicago	NW	1
+Copenhagen	NW	0
+Dallas	NW	0
+Dusseldorf	NW	1
+Frankfurt	NW	2
+Geneva	NW	2
+Hamburg	NW	0
+Hong Kong	NW	3
+Houston	NW	1
+Istanbul	NW	0
+Jakarta	NW	1
+Johannesburg	NW	1
+Kuala Lumpur	NW	1
+London	NW	3
+Los Angeles	NW	3
+Madrid	NW	0
+Manila	NW	1
+Melbourne	NW	2
+Mexico City	NW	1
+Miami	NW	1
+Milan	NW	1
+Minneapolis	NW	0
+Montreal	NW	1
+Moscow	NW	1
+Munich	NW	1
+New York	NW	3
+Osaka	NW	0
+Paris	NW	3
+Prague	NW	0
+Rome	NW	0
+San Francisco	NW	1
+Sao Paulo	NW	0
+Santiago	NW	0
+Seoul	NW	1
+Shanghai	NW	1
+Singapore	NW	2
+Stockholm	NW	0
+Sydney	NW	3
+Taipei	NW	1
+Tokyo	NW	1
+Toronto	NW	1
+Warsaw	NW	0
+Washington, DC	NW	0
+Zurich	NW	3
+Amsterdam	ST	0
+Atlanta	ST	0
+Bangkok	ST	3
+Barcelona	ST	0
+Beijing	ST	1
+Berlin	ST	0
+Boston	ST	0
+Brussels	ST	0
+Budapest	ST	0
+Buenos Aires	ST	1
+Caracas	ST	0
+Chicago	ST	0
+Copenhagen	ST	0
+Dallas	ST	0
+Dusseldorf	ST	0
+Frankfurt	ST	0
+Geneva	ST	0
+Hamburg	ST	0
+Hong Kong	ST	3
+Houston	ST	0
+Istanbul	ST	0
+Jakarta	ST	2
+Johannesburg	ST	2
+Kuala Lumpur	ST	3
+London	ST	3
+Los Angeles	ST	2
+Madrid	ST	0
+Manila	ST	2
+Melbourne	ST	1
+Mexico City	ST	1
+Miami	ST	2
+Milan	ST	0
+Minneapolis	ST	0
+Montreal	ST	0
+Moscow	ST	0
+Munich	ST	0
+New York	ST	3
+Osaka	ST	0
+Paris	ST	0
+Prague	ST	0
+Rome	ST	0
+San Francisco	ST	0
+Sao Paulo	ST	0
+Santiago	ST	0
+Seoul	ST	2
+Shanghai	ST	3
+Singapore	ST	3
+Stockholm	ST	0
+Sydney	ST	2
+Taipei	ST	3
+Tokyo	ST	2
+Toronto	ST	0
+Warsaw	ST	0
+Washington, DC	ST	0
+Zurich	ST	0
+Amsterdam	CR	0
+Atlanta	CR	0
+Bangkok	CR	0
+Barcelona	CR	0
+Beijing	CR	0
+Berlin	CR	1
+Boston	CR	0
+Brussels	CR	0
+Budapest	CR	0
+Buenos Aires	CR	1
+Caracas	CR	0
+Chicago	CR	0
+Copenhagen	CR	0
+Dallas	CR	0
+Dusseldorf	CR	0
+Frankfurt	CR	0
+Geneva	CR	0
+Hamburg	CR	0
+Hong Kong	CR	1
+Houston	CR	0
+Istanbul	CR	1
+Jakarta	CR	0
+Johannesburg	CR	1
+Kuala Lumpur	CR	0
+London	CR	3
+Los Angeles	CR	0
+Madrid	CR	0
+Manila	CR	0
+Melbourne	CR	0
+Mexico City	CR	0
+Miami	CR	0
+Milan	CR	1
+Minneapolis	CR	0
+Montreal	CR	0
+Moscow	CR	3
+Munich	CR	1
+New York	CR	2
+Osaka	CR	0
+Paris	CR	0
+Prague	CR	3
+Rome	CR	0
+San Francisco	CR	1
+Sao Paulo	CR	1
+Santiago	CR	0
+Seoul	CR	0
+Shanghai	CR	0
+Singapore	CR	1
+Stockholm	CR	0
+Sydney	CR	0
+Taipei	CR	0
+Tokyo	CR	1
+Toronto	CR	0
+Warsaw	CR	3
+Washington, DC	CR	0
+Zurich	CR	0
+Amsterdam	DR	1
+Atlanta	DR	0
+Bangkok	DR	0
+Barcelona	DR	0
+Beijing	DR	0
+Berlin	DR	0
+Boston	DR	1
+Brussels	DR	0
+Budapest	DR	0
+Buenos Aires	DR	0
+Caracas	DR	0
+Chicago	DR	0
+Copenhagen	DR	0
+Dallas	DR	0
+Dusseldorf	DR	0
+Frankfurt	DR	3
+Geneva	DR	1
+Hamburg	DR	2
+Hong Kong	DR	1
+Houston	DR	0
+Istanbul	DR	0
+Jakarta	DR	0
+Johannesburg	DR	0
+Kuala Lumpur	DR	0
+London	DR	1
+Los Angeles	DR	0
+Madrid	DR	0
+Manila	DR	0
+Melbourne	DR	0
+Mexico City	DR	1
+Miami	DR	0
+Milan	DR	1
+Minneapolis	DR	0
+Montreal	DR	0
+Moscow	DR	0
+Munich	DR	1
+New York	DR	2
+Osaka	DR	0
+Paris	DR	0
+Prague	DR	0
+Rome	DR	0
+San Francisco	DR	1
+Sao Paulo	DR	0
+Santiago	DR	0
+Seoul	DR	0
+Shanghai	DR	0
+Singapore	DR	1
+Stockholm	DR	0
+Sydney	DR	1
+Taipei	DR	0
+Tokyo	DR	1
+Toronto	DR	1
+Warsaw	DR	0
+Washington, DC	DR	0
+Zurich	DR	2
+Amsterdam	MO	1
+Atlanta	MO	0
+Bangkok	MO	1
+Barcelona	MO	0
+Beijing	MO	2
+Berlin	MO	0
+Boston	MO	1
+Brussels	MO	2
+Budapest	MO	0
+Buenos Aires	MO	2
+Caracas	MO	1
+Chicago	MO	2
+Copenhagen	MO	0
+Dallas	MO	2
+Dusseldorf	MO	0
+Frankfurt	MO	3
+Geneva	MO	1
+Hamburg	MO	0
+Hong Kong	MO	3
+Houston	MO	2
+Istanbul	MO	0
+Jakarta	MO	1
+Johannesburg	MO	2
+Kuala Lumpur	MO	0
+London	MO	3
+Los Angeles	MO	3
+Madrid	MO	3
+Manila	MO	1
+Melbourne	MO	2
+Mexico City	MO	3
+Miami	MO	0
+Milan	MO	2
+Minneapolis	MO	0
+Montreal	MO	1
+Moscow	MO	1
+Munich	MO	0
+New York	MO	3
+Osaka	MO	1
+Paris	MO	2
+Prague	MO	1
+Rome	MO	1
+San Francisco	MO	3
+Sao Paulo	MO	2
+Santiago	MO	1
+Seoul	MO	2
+Shanghai	MO	1
+Singapore	MO	3
+Stockholm	MO	0
+Sydney	MO	2
+Taipei	MO	2
+Tokyo	MO	2
+Toronto	MO	2
+Warsaw	MO	1
+Washington, DC	MO	1
+Zurich	MO	2
+Amsterdam	PA	2
+Atlanta	PA	0
+Bangkok	PA	1
+Barcelona	PA	3
+Beijing	PA	1
+Berlin	PA	0
+Boston	PA	0
+Brussels	PA	2
+Budapest	PA	2
+Buenos Aires	PA	1
+Caracas	PA	1
+Chicago	PA	1
+Copenhagen	PA	0
+Dallas	PA	1
+Dusseldorf	PA	0
+Frankfurt	PA	3
+Geneva	PA	2
+Hamburg	PA	0
+Hong Kong	PA	3
+Houston	PA	1
+Istanbul	PA	1
+Jakarta	PA	2
+Johannesburg	PA	1
+Kuala Lumpur	PA	1
+London	PA	3
+Los Angeles	PA	1
+Madrid	PA	3
+Manila	PA	1
+Melbourne	PA	0
+Mexico City	PA	1
+Miami	PA	0
+Milan	PA	3
+Minneapolis	PA	0
+Montreal	PA	0
+Moscow	PA	1
+Munich	PA	0
+New York	PA	3
+Osaka	PA	0
+Paris	PA	3
+Prague	PA	1
+Rome	PA	1
+San Francisco	PA	1
+Sao Paulo	PA	2
+Santiago	PA	1
+Seoul	PA	3
+Shanghai	PA	3
+Singapore	PA	3
+Stockholm	PA	0
+Sydney	PA	2
+Taipei	PA	3
+Tokyo	PA	3
+Toronto	PA	2
+Warsaw	PA	1
+Washington, DC	PA	0
+Zurich	PA	1
+Amsterdam	CS	0
+Atlanta	CS	0
+Bangkok	CS	0
+Barcelona	CS	1
+Beijing	CS	0
+Berlin	CS	1
+Boston	CS	0
+Brussels	CS	0
+Budapest	CS	0
+Buenos Aires	CS	1
+Caracas	CS	1
+Chicago	CS	0
+Copenhagen	CS	0
+Dallas	CS	0
+Dusseldorf	CS	0
+Frankfurt	CS	3
+Geneva	CS	0
+Hamburg	CS	0
+Hong Kong	CS	3
+Houston	CS	1
+Istanbul	CS	0
+Jakarta	CS	0
+Johannesburg	CS	0
+Kuala Lumpur	CS	1
+London	CS	3
+Los Angeles	CS	1
+Madrid	CS	1
+Manila	CS	0
+Melbourne	CS	1
+Mexico City	CS	1
+Miami	CS	1
+Milan	CS	1
+Minneapolis	CS	0
+Montreal	CS	1
+Moscow	CS	3
+Munich	CS	1
+New York	CS	3
+Osaka	CS	0
+Paris	CS	1
+Prague	CS	0
+Rome	CS	1
+San Francisco	CS	0
+Sao Paulo	CS	1
+Santiago	CS	1
+Seoul	CS	0
+Shanghai	CS	0
+Singapore	CS	3
+Stockholm	CS	0
+Sydney	CS	0
+Taipei	CS	0
+Tokyo	CS	3
+Toronto	CS	1
+Warsaw	CS	0
+Washington, DC	CS	0
+Zurich	CS	3
+Amsterdam	BB	0
+Atlanta	BB	0
+Bangkok	BB	0
+Barcelona	BB	1
+Beijing	BB	0
+Berlin	BB	0
+Boston	BB	0
+Brussels	BB	2
+Budapest	BB	0
+Buenos Aires	BB	2
+Caracas	BB	2
+Chicago	BB	0
+Copenhagen	BB	0
+Dallas	BB	0
+Dusseldorf	BB	0
+Frankfurt	BB	2
+Geneva	BB	0
+Hamburg	BB	0
+Hong Kong	BB	0
+Houston	BB	0
+Istanbul	BB	0
+Jakarta	BB	2
+Johannesburg	BB	0
+Kuala Lumpur	BB	0
+London	BB	3
+Los Angeles	BB	0
+Madrid	BB	3
+Manila	BB	0
+Melbourne	BB	0
+Mexico City	BB	2
+Miami	BB	3
+Milan	BB	3
+Minneapolis	BB	0
+Montreal	BB	0
+Moscow	BB	2
+Munich	BB	0
+New York	BB	3
+Osaka	BB	0
+Paris	BB	3
+Prague	BB	0
+Rome	BB	0
+San Francisco	BB	0
+Sao Paulo	BB	2
+Santiago	BB	2
+Seoul	BB	0
+Shanghai	BB	0
+Singapore	BB	0
+Stockholm	BB	0
+Sydney	BB	0
+Taipei	BB	0
+Tokyo	BB	3
+Toronto	BB	0
+Warsaw	BB	0
+Washington, DC	BB	0
+Zurich	BB	2
+Amsterdam	BT	0
+Atlanta	BT	0
+Bangkok	BT	1
+Barcelona	BT	0
+Beijing	BT	1
+Berlin	BT	0
+Boston	BT	1
+Brussels	BT	0
+Budapest	BT	2
+Buenos Aires	BT	1
+Caracas	BT	1
+Chicago	BT	1
+Copenhagen	BT	0
+Dallas	BT	0
+Dusseldorf	BT	0
+Frankfurt	BT	3
+Geneva	BT	2
+Hamburg	BT	0
+Hong Kong	BT	3
+Houston	BT	1
+Istanbul	BT	2
+Jakarta	BT	3
+Johannesburg	BT	1
+Kuala Lumpur	BT	1
+London	BT	3
+Los Angeles	BT	1
+Madrid	BT	2
+Manila	BT	2
+Melbourne	BT	0
+Mexico City	BT	2
+Miami	BT	1
+Milan	BT	2
+Minneapolis	BT	0
+Montreal	BT	1
+Moscow	BT	0
+Munich	BT	0
+New York	BT	3
+Osaka	BT	0
+Paris	BT	3
+Prague	BT	2
+Rome	BT	0
+San Francisco	BT	1
+Sao Paulo	BT	2
+Santiago	BT	1
+Seoul	BT	3
+Shanghai	BT	0
+Singapore	BT	3
+Stockholm	BT	0
+Sydney	BT	3
+Taipei	BT	3
+Tokyo	BT	3
+Toronto	BT	1
+Warsaw	BT	1
+Washington, DC	BT	0
+Zurich	BT	3
+Amsterdam	UB	0
+Atlanta	UB	0
+Bangkok	UB	1
+Barcelona	UB	0
+Beijing	UB	1
+Berlin	UB	0
+Boston	UB	0
+Brussels	UB	0
+Budapest	UB	1
+Buenos Aires	UB	1
+Caracas	UB	1
+Chicago	UB	1
+Copenhagen	UB	0
+Dallas	UB	0
+Dusseldorf	UB	0
+Frankfurt	UB	1
+Geneva	UB	1
+Hamburg	UB	0
+Hong Kong	UB	1
+Houston	UB	1
+Istanbul	UB	0
+Jakarta	UB	0
+Johannesburg	UB	1
+Kuala Lumpur	UB	1
+London	UB	3
+Los Angeles	UB	1
+Madrid	UB	1
+Manila	UB	1
+Melbourne	UB	0
+Mexico City	UB	1
+Miami	UB	0
+Milan	UB	1
+Minneapolis	UB	0
+Montreal	UB	1
+Moscow	UB	0
+Munich	UB	0
+New York	UB	3
+Osaka	UB	1
+Paris	UB	1
+Prague	UB	1
+Rome	UB	0
+San Francisco	UB	1
+Sao Paulo	UB	1
+Santiago	UB	1
+Seoul	UB	1
+Shanghai	UB	1
+Singapore	UB	3
+Stockholm	UB	0
+Sydney	UB	1
+Taipei	UB	1
+Tokyo	UB	3
+Toronto	UB	1
+Warsaw	UB	1
+Washington, DC	UB	0
+Zurich	UB	3
+Amsterdam	AB	1
+Atlanta	AB	1
+Bangkok	AB	1
+Barcelona	AB	1
+Beijing	AB	1
+Berlin	AB	0
+Boston	AB	0
+Brussels	AB	1
+Budapest	AB	1
+Buenos Aires	AB	1
+Caracas	AB	1
+Chicago	AB	1
+Copenhagen	AB	1
+Dallas	AB	0
+Dusseldorf	AB	1
+Frankfurt	AB	1
+Geneva	AB	1
+Hamburg	AB	1
+Hong Kong	AB	1
+Houston	AB	1
+Istanbul	AB	1
+Jakarta	AB	1
+Johannesburg	AB	1
+Kuala Lumpur	AB	1
+London	AB	1
+Los Angeles	AB	1
+Madrid	AB	1
+Manila	AB	1
+Melbourne	AB	1
+Mexico City	AB	1
+Miami	AB	0
+Milan	AB	1
+Minneapolis	AB	0
+Montreal	AB	0
+Moscow	AB	1
+Munich	AB	1
+New York	AB	1
+Osaka	AB	1
+Paris	AB	1
+Prague	AB	1
+Rome	AB	1
+San Francisco	AB	1
+Sao Paulo	AB	1
+Santiago	AB	1
+Seoul	AB	1
+Shanghai	AB	1
+Singapore	AB	1
+Stockholm	AB	1
+Sydney	AB	1
+Taipei	AB	1
+Tokyo	AB	1
+Toronto	AB	1
+Warsaw	AB	1
+Washington, DC	AB	0
+Zurich	AB	1
+Amsterdam	CB	0
+Atlanta	CB	0
+Bangkok	CB	1
+Barcelona	CB	1
+Beijing	CB	0
+Berlin	CB	1
+Boston	CB	0
+Brussels	CB	1
+Budapest	CB	1
+Buenos Aires	CB	1
+Caracas	CB	1
+Chicago	CB	1
+Copenhagen	CB	0
+Dallas	CB	0
+Dusseldorf	CB	1
+Frankfurt	CB	1
+Geneva	CB	0
+Hamburg	CB	1
+Hong Kong	CB	1
+Houston	CB	0
+Istanbul	CB	1
+Jakarta	CB	1
+Johannesburg	CB	0
+Kuala Lumpur	CB	1
+London	CB	1
+Los Angeles	CB	1
+Madrid	CB	1
+Manila	CB	1
+Melbourne	CB	1
+Mexico City	CB	1
+Miami	CB	1
+Milan	CB	0
+Minneapolis	CB	0
+Montreal	CB	0
+Moscow	CB	0
+Munich	CB	1
+New York	CB	1
+Osaka	CB	1
+Paris	CB	1
+Prague	CB	0
+Rome	CB	0
+San Francisco	CB	1
+Sao Paulo	CB	1
+Santiago	CB	1
+Seoul	CB	1
+Shanghai	CB	1
+Singapore	CB	0
+Stockholm	CB	0
+Sydney	CB	1
+Taipei	CB	1
+Tokyo	CB	1
+Toronto	CB	1
+Warsaw	CB	0
+Washington, DC	CB	1
+Zurich	CB	0
+Amsterdam	BM	3
+Atlanta	BM	0
+Bangkok	BM	3
+Barcelona	BM	3
+Beijing	BM	2
+Berlin	BM	2
+Boston	BM	0
+Brussels	BM	3
+Budapest	BM	2
+Buenos Aires	BM	3
+Caracas	BM	3
+Chicago	BM	3
+Copenhagen	BM	0
+Dallas	BM	3
+Dusseldorf	BM	0
+Frankfurt	BM	3
+Geneva	BM	2
+Hamburg	BM	0
+Hong Kong	BM	3
+Houston	BM	1
+Istanbul	BM	0
+Jakarta	BM	3
+Johannesburg	BM	0
+Kuala Lumpur	BM	0
+London	BM	3
+Los Angeles	BM	0
+Madrid	BM	3
+Manila	BM	3
+Melbourne	BM	3
+Mexico City	BM	3
+Miami	BM	3
+Milan	BM	3
+Minneapolis	BM	0
+Montreal	BM	0
+Moscow	BM	3
+Munich	BM	1
+New York	BM	3
+Osaka	BM	0
+Paris	BM	3
+Prague	BM	1
+Rome	BM	2
+San Francisco	BM	3
+Sao Paulo	BM	3
+Santiago	BM	3
+Seoul	BM	0
+Shanghai	BM	0
+Singapore	BM	3
+Stockholm	BM	3
+Sydney	BM	3
+Taipei	BM	3
+Tokyo	BM	3
+Toronto	BM	3
+Warsaw	BM	3
+Washington, DC	BM	3
+Zurich	BM	3
+Amsterdam	WC	0
+Atlanta	WC	0
+Bangkok	WC	1
+Barcelona	WC	0
+Beijing	WC	0
+Berlin	WC	0
+Boston	WC	0
+Brussels	WC	1
+Budapest	WC	2
+Buenos Aires	WC	0
+Caracas	WC	0
+Chicago	WC	0
+Copenhagen	WC	0
+Dallas	WC	0
+Dusseldorf	WC	0
+Frankfurt	WC	0
+Geneva	WC	0
+Hamburg	WC	0
+Hong Kong	WC	2
+Houston	WC	0
+Istanbul	WC	2
+Jakarta	WC	1
+Johannesburg	WC	1
+Kuala Lumpur	WC	0
+London	WC	3
+Los Angeles	WC	3
+Madrid	WC	0
+Manila	WC	0
+Melbourne	WC	0
+Mexico City	WC	2
+Miami	WC	3
+Milan	WC	0
+Minneapolis	WC	0
+Montreal	WC	0
+Moscow	WC	2
+Munich	WC	0
+New York	WC	3
+Osaka	WC	0
+Paris	WC	3
+Prague	WC	2
+Rome	WC	0
+San Francisco	WC	0
+Sao Paulo	WC	1
+Santiago	WC	0
+Seoul	WC	0
+Shanghai	WC	0
+Singapore	WC	2
+Stockholm	WC	2
+Sydney	WC	0
+Taipei	WC	0
+Tokyo	WC	3
+Toronto	WC	0
+Warsaw	WC	3
+Washington, DC	WC	3
+Zurich	WC	0
+Amsterdam	LL	0
+Atlanta	LL	0
+Bangkok	LL	0
+Barcelona	LL	0
+Beijing	LL	0
+Berlin	LL	0
+Boston	LL	2
+Brussels	LL	1
+Budapest	LL	0
+Buenos Aires	LL	0
+Caracas	LL	0
+Chicago	LL	0
+Copenhagen	LL	0
+Dallas	LL	0
+Dusseldorf	LL	0
+Frankfurt	LL	0
+Geneva	LL	0
+Hamburg	LL	0
+Hong Kong	LL	0
+Houston	LL	0
+Istanbul	LL	0
+Jakarta	LL	0
+Johannesburg	LL	0
+Kuala Lumpur	LL	0
+London	LL	3
+Los Angeles	LL	3
+Madrid	LL	0
+Manila	LL	0
+Melbourne	LL	0
+Mexico City	LL	0
+Miami	LL	0
+Milan	LL	0
+Minneapolis	LL	0
+Montreal	LL	0
+Moscow	LL	2
+Munich	LL	0
+New York	LL	3
+Osaka	LL	0
+Paris	LL	0
+Prague	LL	0
+Rome	LL	0
+San Francisco	LL	3
+Sao Paulo	LL	0
+Santiago	LL	0
+Seoul	LL	0
+Shanghai	LL	0
+Singapore	LL	0
+Stockholm	LL	0
+Sydney	LL	0
+Taipei	LL	0
+Tokyo	LL	0
+Toronto	LL	0
+Warsaw	LL	0
+Washington, DC	LL	3
+Zurich	LL	0
+Amsterdam	CO	0
+Atlanta	CO	0
+Bangkok	CO	1
+Barcelona	CO	0
+Beijing	CO	1
+Berlin	CO	1
+Boston	CO	0
+Brussels	CO	2
+Budapest	CO	0
+Buenos Aires	CO	0
+Caracas	CO	0
+Chicago	CO	0
+Copenhagen	CO	0
+Dallas	CO	0
+Dusseldorf	CO	0
+Frankfurt	CO	0
+Geneva	CO	0
+Hamburg	CO	0
+Hong Kong	CO	3
+Houston	CO	0
+Istanbul	CO	0
+Jakarta	CO	0
+Johannesburg	CO	0
+Kuala Lumpur	CO	0
+London	CO	3
+Los Angeles	CO	2
+Madrid	CO	0
+Manila	CO	0
+Melbourne	CO	0
+Mexico City	CO	0
+Miami	CO	0
+Milan	CO	0
+Minneapolis	CO	0
+Montreal	CO	0
+Moscow	CO	2
+Munich	CO	0
+New York	CO	3
+Osaka	CO	0
+Paris	CO	3
+Prague	CO	0
+Rome	CO	0
+San Francisco	CO	3
+Sao Paulo	CO	0
+Santiago	CO	0
+Seoul	CO	0
+Shanghai	CO	0
+Singapore	CO	1
+Stockholm	CO	0
+Sydney	CO	1
+Taipei	CO	0
+Tokyo	CO	1
+Toronto	CO	0
+Warsaw	CO	0
+Washington, DC	CO	3
+Zurich	CO	0
+Amsterdam	SK	0
+Atlanta	SK	0
+Bangkok	SK	0
+Barcelona	SK	0
+Beijing	SK	1
+Berlin	SK	0
+Boston	SK	3
+Brussels	SK	1
+Budapest	SK	0
+Buenos Aires	SK	0
+Caracas	SK	0
+Chicago	SK	3
+Copenhagen	SK	0
+Dallas	SK	0
+Dusseldorf	SK	0
+Frankfurt	SK	1
+Geneva	SK	0
+Hamburg	SK	0
+Hong Kong	SK	2
+Houston	SK	2
+Istanbul	SK	2
+Jakarta	SK	0
+Johannesburg	SK	0
+Kuala Lumpur	SK	0
+London	SK	3
+Los Angeles	SK	3
+Madrid	SK	0
+Manila	SK	0
+Melbourne	SK	0
+Mexico City	SK	0
+Miami	SK	0
+Milan	SK	0
+Minneapolis	SK	0
+Montreal	SK	0
+Moscow	SK	1
+Munich	SK	0
+New York	SK	3
+Osaka	SK	0
+Paris	SK	2
+Prague	SK	0
+Rome	SK	0
+San Francisco	SK	3
+Sao Paulo	SK	0
+Santiago	SK	0
+Seoul	SK	0
+Shanghai	SK	0
+Singapore	SK	1
+Stockholm	SK	0
+Sydney	SK	1
+Taipei	SK	0
+Tokyo	SK	1
+Toronto	SK	0
+Warsaw	SK	0
+Washington, DC	SK	3
+Zurich	SK	0
+Amsterdam	BC	0
+Atlanta	BC	0
+Bangkok	BC	0
+Barcelona	BC	0
+Beijing	BC	0
+Berlin	BC	0
+Boston	BC	0
+Brussels	BC	0
+Budapest	BC	0
+Buenos Aires	BC	0
+Caracas	BC	0
+Chicago	BC	0
+Copenhagen	BC	0
+Dallas	BC	0
+Dusseldorf	BC	0
+Frankfurt	BC	0
+Geneva	BC	0
+Hamburg	BC	0
+Hong Kong	BC	1
+Houston	BC	0
+Istanbul	BC	0
+Jakarta	BC	0
+Johannesburg	BC	0
+Kuala Lumpur	BC	0
+London	BC	1
+Los Angeles	BC	3
+Madrid	BC	0
+Manila	BC	0
+Melbourne	BC	0
+Mexico City	BC	0
+Miami	BC	0
+Milan	BC	0
+Minneapolis	BC	0
+Montreal	BC	0
+Moscow	BC	0
+Munich	BC	0
+New York	BC	3
+Osaka	BC	0
+Paris	BC	0
+Prague	BC	0
+Rome	BC	0
+San Francisco	BC	0
+Sao Paulo	BC	0
+Santiago	BC	0
+Seoul	BC	0
+Shanghai	BC	0
+Singapore	BC	0
+Stockholm	BC	0
+Sydney	BC	0
+Taipei	BC	0
+Tokyo	BC	0
+Toronto	BC	0
+Warsaw	BC	0
+Washington, DC	BC	3
+Zurich	BC	0
+Amsterdam	DW	0
+Atlanta	DW	0
+Bangkok	DW	0
+Barcelona	DW	0
+Beijing	DW	0
+Berlin	DW	0
+Boston	DW	0
+Brussels	DW	1
+Budapest	DW	0
+Buenos Aires	DW	0
+Caracas	DW	0
+Chicago	DW	0
+Copenhagen	DW	0
+Dallas	DW	0
+Dusseldorf	DW	0
+Frankfurt	DW	0
+Geneva	DW	0
+Hamburg	DW	0
+Hong Kong	DW	1
+Houston	DW	0
+Istanbul	DW	0
+Jakarta	DW	0
+Johannesburg	DW	0
+Kuala Lumpur	DW	0
+London	DW	1
+Los Angeles	DW	0
+Madrid	DW	0
+Manila	DW	0
+Melbourne	DW	0
+Mexico City	DW	0
+Miami	DW	0
+Milan	DW	0
+Minneapolis	DW	3
+Montreal	DW	0
+Moscow	DW	0
+Munich	DW	0
+New York	DW	3
+Osaka	DW	0
+Paris	DW	0
+Prague	DW	0
+Rome	DW	0
+San Francisco	DW	0
+Sao Paulo	DW	0
+Santiago	DW	0
+Seoul	DW	0
+Shanghai	DW	0
+Singapore	DW	0
+Stockholm	DW	0
+Sydney	DW	0
+Taipei	DW	0
+Tokyo	DW	0
+Toronto	DW	0
+Warsaw	DW	0
+Washington, DC	DW	3
+Zurich	DW	0
+Amsterdam	GJ	0
+Atlanta	GJ	0
+Bangkok	GJ	1
+Barcelona	GJ	0
+Beijing	GJ	1
+Berlin	GJ	0
+Boston	GJ	0
+Brussels	GJ	0
+Budapest	GJ	0
+Buenos Aires	GJ	0
+Caracas	GJ	0
+Chicago	GJ	0
+Copenhagen	GJ	0
+Dallas	GJ	0
+Dusseldorf	GJ	0
+Frankfurt	GJ	0
+Geneva	GJ	0
+Hamburg	GJ	0
+Hong Kong	GJ	1
+Houston	GJ	0
+Istanbul	GJ	0
+Jakarta	GJ	0
+Johannesburg	GJ	0
+Kuala Lumpur	GJ	0
+London	GJ	1
+Los Angeles	GJ	3
+Madrid	GJ	0
+Manila	GJ	0
+Melbourne	GJ	0
+Mexico City	GJ	0
+Miami	GJ	0
+Milan	GJ	3
+Minneapolis	GJ	0
+Montreal	GJ	0
+Moscow	GJ	0
+Munich	GJ	0
+New York	GJ	3
+Osaka	GJ	0
+Paris	GJ	0
+Prague	GJ	0
+Rome	GJ	0
+San Francisco	GJ	3
+Sao Paulo	GJ	0
+Santiago	GJ	0
+Seoul	GJ	0
+Shanghai	GJ	0
+Singapore	GJ	0
+Stockholm	GJ	0
+Sydney	GJ	1
+Taipei	GJ	0
+Tokyo	GJ	1
+Toronto	GJ	0
+Warsaw	GJ	0
+Washington, DC	GJ	2
+Zurich	GJ	0
+Amsterdam	HH	0
+Atlanta	HH	0
+Bangkok	HH	0
+Barcelona	HH	0
+Beijing	HH	0
+Berlin	HH	0
+Boston	HH	0
+Brussels	HH	1
+Budapest	HH	1
+Buenos Aires	HH	0
+Caracas	HH	0
+Chicago	HH	0
+Copenhagen	HH	0
+Dallas	HH	0
+Dusseldorf	HH	0
+Frankfurt	HH	0
+Geneva	HH	0
+Hamburg	HH	0
+Hong Kong	HH	0
+Houston	HH	0
+Istanbul	HH	0
+Jakarta	HH	0
+Johannesburg	HH	0
+Kuala Lumpur	HH	0
+London	HH	1
+Los Angeles	HH	1
+Madrid	HH	0
+Manila	HH	0
+Melbourne	HH	0
+Mexico City	HH	0
+Miami	HH	0
+Milan	HH	0
+Minneapolis	HH	0
+Montreal	HH	0
+Moscow	HH	1
+Munich	HH	0
+New York	HH	0
+Osaka	HH	0
+Paris	HH	2
+Prague	HH	1
+Rome	HH	0
+San Francisco	HH	0
+Sao Paulo	HH	0
+Santiago	HH	0
+Seoul	HH	0
+Shanghai	HH	0
+Singapore	HH	0
+Stockholm	HH	0
+Sydney	HH	0
+Taipei	HH	0
+Tokyo	HH	0
+Toronto	HH	0
+Warsaw	HH	2
+Washington, DC	HH	3
+Zurich	HH	0
+Amsterdam	JD	0
+Atlanta	JD	3
+Bangkok	JD	0
+Barcelona	JD	0
+Beijing	JD	0
+Berlin	JD	0
+Boston	JD	0
+Brussels	JD	2
+Budapest	JD	0
+Buenos Aires	JD	0
+Caracas	JD	0
+Chicago	JD	3
+Copenhagen	JD	0
+Dallas	JD	3
+Dusseldorf	JD	0
+Frankfurt	JD	3
+Geneva	JD	1
+Hamburg	JD	0
+Hong Kong	JD	1
+Houston	JD	0
+Istanbul	JD	0
+Jakarta	JD	0
+Johannesburg	JD	0
+Kuala Lumpur	JD	0
+London	JD	2
+Los Angeles	JD	3
+Madrid	JD	0
+Manila	JD	0
+Melbourne	JD	0
+Mexico City	JD	0
+Miami	JD	0
+Milan	JD	0
+Minneapolis	JD	0
+Montreal	JD	0
+Moscow	JD	0
+Munich	JD	0
+New York	JD	3
+Osaka	JD	0
+Paris	JD	3
+Prague	JD	0
+Rome	JD	0
+San Francisco	JD	0
+Sao Paulo	JD	0
+Santiago	JD	0
+Seoul	JD	0
+Shanghai	JD	0
+Singapore	JD	0
+Stockholm	JD	0
+Sydney	JD	0
+Taipei	JD	2
+Tokyo	JD	1
+Toronto	JD	0
+Warsaw	JD	0
+Washington, DC	JD	3
+Zurich	JD	0
+Amsterdam	MC	0
+Atlanta	MC	0
+Bangkok	MC	0
+Barcelona	MC	0
+Beijing	MC	0
+Berlin	MC	0
+Boston	MC	0
+Brussels	MC	0
+Budapest	MC	0
+Buenos Aires	MC	0
+Caracas	MC	0
+Chicago	MC	0
+Copenhagen	MC	0
+Dallas	MC	0
+Dusseldorf	MC	0
+Frankfurt	MC	0
+Geneva	MC	0
+Hamburg	MC	0
+Hong Kong	MC	0
+Houston	MC	0
+Istanbul	MC	0
+Jakarta	MC	0
+Johannesburg	MC	0
+Kuala Lumpur	MC	0
+London	MC	0
+Los Angeles	MC	0
+Madrid	MC	0
+Manila	MC	0
+Melbourne	MC	0
+Mexico City	MC	0
+Miami	MC	0
+Milan	MC	0
+Minneapolis	MC	0
+Montreal	MC	0
+Moscow	MC	0
+Munich	MC	0
+New York	MC	1
+Osaka	MC	0
+Paris	MC	0
+Prague	MC	0
+Rome	MC	0
+San Francisco	MC	0
+Sao Paulo	MC	0
+Santiago	MC	0
+Seoul	MC	0
+Shanghai	MC	0
+Singapore	MC	0
+Stockholm	MC	0
+Sydney	MC	0
+Taipei	MC	0
+Tokyo	MC	0
+Toronto	MC	0
+Warsaw	MC	1
+Washington, DC	MC	1
+Zurich	MC	0
+Amsterdam	SQ	0
+Atlanta	SQ	0
+Bangkok	SQ	0
+Barcelona	SQ	0
+Beijing	SQ	0
+Berlin	SQ	0
+Boston	SQ	0
+Brussels	SQ	1
+Budapest	SQ	1
+Buenos Aires	SQ	0
+Caracas	SQ	0
+Chicago	SQ	0
+Copenhagen	SQ	0
+Dallas	SQ	0
+Dusseldorf	SQ	0
+Frankfurt	SQ	0
+Geneva	SQ	0
+Hamburg	SQ	0
+Hong Kong	SQ	0
+Houston	SQ	1
+Istanbul	SQ	0
+Jakarta	SQ	0
+Johannesburg	SQ	0
+Kuala Lumpur	SQ	0
+London	SQ	1
+Los Angeles	SQ	0
+Madrid	SQ	0
+Manila	SQ	0
+Melbourne	SQ	0
+Mexico City	SQ	0
+Miami	SQ	1
+Milan	SQ	0
+Minneapolis	SQ	0
+Montreal	SQ	0
+Moscow	SQ	0
+Munich	SQ	0
+New York	SQ	2
+Osaka	SQ	0
+Paris	SQ	0
+Prague	SQ	2
+Rome	SQ	0
+San Francisco	SQ	0
+Sao Paulo	SQ	0
+Santiago	SQ	0
+Seoul	SQ	0
+Shanghai	SQ	0
+Singapore	SQ	0
+Stockholm	SQ	0
+Sydney	SQ	0
+Taipei	SQ	0
+Tokyo	SQ	0
+Toronto	SQ	0
+Warsaw	SQ	0
+Washington, DC	SQ	3
+Zurich	SQ	0
+Amsterdam	WE	0
+Atlanta	WE	0
+Bangkok	WE	0
+Barcelona	WE	0
+Beijing	WE	0
+Berlin	WE	0
+Boston	WE	0
+Brussels	WE	0
+Budapest	WE	0
+Buenos Aires	WE	0
+Caracas	WE	0
+Chicago	WE	2
+Copenhagen	WE	0
+Dallas	WE	2
+Dusseldorf	WE	0
+Frankfurt	WE	0
+Geneva	WE	0
+Hamburg	WE	0
+Hong Kong	WE	0
+Houston	WE	1
+Istanbul	WE	0
+Jakarta	WE	0
+Johannesburg	WE	0
+Kuala Lumpur	WE	0
+London	WE	1
+Los Angeles	WE	3
+Madrid	WE	0
+Manila	WE	0
+Melbourne	WE	0
+Mexico City	WE	0
+Miami	WE	2
+Milan	WE	0
+Minneapolis	WE	0
+Montreal	WE	0
+Moscow	WE	0
+Munich	WE	0
+New York	WE	3
+Osaka	WE	0
+Paris	WE	0
+Prague	WE	0
+Rome	WE	0
+San Francisco	WE	3
+Sao Paulo	WE	0
+Santiago	WE	0
+Seoul	WE	0
+Shanghai	WE	0
+Singapore	WE	0
+Stockholm	WE	0
+Sydney	WE	0
+Taipei	WE	0
+Tokyo	WE	1
+Toronto	WE	0
+Warsaw	WE	0
+Washington, DC	WE	2
+Zurich	WE	0
+Amsterdam	AO	0
+Atlanta	AO	0
+Bangkok	AO	0
+Barcelona	AO	0
+Beijing	AO	1
+Berlin	AO	0
+Boston	AO	0
+Brussels	AO	1
+Budapest	AO	1
+Buenos Aires	AO	0
+Caracas	AO	0
+Chicago	AO	0
+Copenhagen	AO	0
+Dallas	AO	0
+Dusseldorf	AO	0
+Frankfurt	AO	1
+Geneva	AO	0
+Hamburg	AO	0
+Hong Kong	AO	1
+Houston	AO	0
+Istanbul	AO	0
+Jakarta	AO	0
+Johannesburg	AO	0
+Kuala Lumpur	AO	0
+London	AO	1
+Los Angeles	AO	0
+Madrid	AO	1
+Manila	AO	0
+Melbourne	AO	0
+Mexico City	AO	0
+Miami	AO	0
+Milan	AO	1
+Minneapolis	AO	0
+Montreal	AO	0
+Moscow	AO	1
+Munich	AO	0
+New York	AO	1
+Osaka	AO	0
+Paris	AO	1
+Prague	AO	1
+Rome	AO	1
+San Francisco	AO	0
+Sao Paulo	AO	0
+Santiago	AO	0
+Seoul	AO	0
+Shanghai	AO	0
+Singapore	AO	1
+Stockholm	AO	0
+Sydney	AO	0
+Taipei	AO	0
+Tokyo	AO	1
+Toronto	AO	0
+Warsaw	AO	1
+Washington, DC	AO	0
+Zurich	AO	0
+Amsterdam	CC	1
+Atlanta	CC	0
+Bangkok	CC	1
+Barcelona	CC	1
+Beijing	CC	0
+Berlin	CC	0
+Boston	CC	0
+Brussels	CC	1
+Budapest	CC	1
+Buenos Aires	CC	0
+Caracas	CC	0
+Chicago	CC	0
+Copenhagen	CC	0
+Dallas	CC	0
+Dusseldorf	CC	1
+Frankfurt	CC	1
+Geneva	CC	0
+Hamburg	CC	0
+Hong Kong	CC	1
+Houston	CC	0
+Istanbul	CC	0
+Jakarta	CC	0
+Johannesburg	CC	0
+Kuala Lumpur	CC	0
+London	CC	1
+Los Angeles	CC	0
+Madrid	CC	1
+Manila	CC	0
+Melbourne	CC	0
+Mexico City	CC	0
+Miami	CC	0
+Milan	CC	1
+Minneapolis	CC	0
+Montreal	CC	0
+Moscow	CC	1
+Munich	CC	0
+New York	CC	1
+Osaka	CC	0
+Paris	CC	1
+Prague	CC	1
+Rome	CC	1
+San Francisco	CC	0
+Sao Paulo	CC	0
+Santiago	CC	0
+Seoul	CC	0
+Shanghai	CC	1
+Singapore	CC	1
+Stockholm	CC	0
+Sydney	CC	0
+Taipei	CC	0
+Tokyo	CC	1
+Toronto	CC	0
+Warsaw	CC	1
+Washington, DC	CC	0
+Zurich	CC	0
+Amsterdam	FF	0
+Atlanta	FF	0
+Bangkok	FF	1
+Barcelona	FF	1
+Beijing	FF	1
+Berlin	FF	0
+Boston	FF	0
+Brussels	FF	1
+Budapest	FF	0
+Buenos Aires	FF	0
+Caracas	FF	0
+Chicago	FF	0
+Copenhagen	FF	0
+Dallas	FF	0
+Dusseldorf	FF	0
+Frankfurt	FF	1
+Geneva	FF	0
+Hamburg	FF	0
+Hong Kong	FF	1
+Houston	FF	0
+Istanbul	FF	0
+Jakarta	FF	0
+Johannesburg	FF	0
+Kuala Lumpur	FF	0
+London	FF	1
+Los Angeles	FF	0
+Madrid	FF	1
+Manila	FF	0
+Melbourne	FF	0
+Mexico City	FF	0
+Miami	FF	0
+Milan	FF	1
+Minneapolis	FF	0
+Montreal	FF	0
+Moscow	FF	1
+Munich	FF	0
+New York	FF	1
+Osaka	FF	0
+Paris	FF	1
+Prague	FF	0
+Rome	FF	1
+San Francisco	FF	0
+Sao Paulo	FF	0
+Santiago	FF	0
+Seoul	FF	0
+Shanghai	FF	0
+Singapore	FF	1
+Stockholm	FF	0
+Sydney	FF	0
+Taipei	FF	0
+Tokyo	FF	1
+Toronto	FF	0
+Warsaw	FF	0
+Washington, DC	FF	0
+Zurich	FF	0
