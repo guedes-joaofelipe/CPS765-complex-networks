@@ -1,0 +1,6 @@
+dataset_tag,metric,max,min,mean,median,std
+ml1m,degree,3428,1,205.26,102.00,285.77
+ml1m,out-degree,2314,20,165.60,96.00,192.75
+ml1m,in-degree,3428,1,269.89,123.50,384.05
+ml1m,distance,1.0,1.0,1.00,1.00,0.00
+ml1m,closeness,0.3517701385325808,0.0,0.01,0.00,0.04

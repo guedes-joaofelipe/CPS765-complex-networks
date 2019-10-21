@@ -1,0 +1,4 @@
+dataset_tag,metric,max,min,mean,median,std
+amazon_copurchase,degree,549,1,5.53,4.00,5.76
+amazon_copurchase,distance,37.0,1.0,11.96,12.00,3.02
+amazon_copurchase,closeness,0.11160582309219541,0.05269126511308665,0.09,0.09,0.01

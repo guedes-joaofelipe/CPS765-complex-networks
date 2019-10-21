@@ -1,0 +1,4 @@
+dataset_tag,metric,max,min,mean,median,std
+lesmis,degree,36,1,6.60,6.00,6.04
+lesmis,distance,5.0,1.0,2.64,3.00,0.86
+lesmis,closeness,0.6440677966101694,0.25675675675675674,0.39,0.39,0.07
