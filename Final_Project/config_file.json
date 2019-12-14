@@ -1,4 +1,7 @@
-{"k_neighbors": 30,
+{"dataset": "ML1M",
+"model": "ItemKNN",
+"k_neighbors": 30,
 "rank_length":10,
-"n_folds": 5,
+"n_folds": 1,
+"test_size": 0.3,
 "strategy": "upper_degree_centrality"}
