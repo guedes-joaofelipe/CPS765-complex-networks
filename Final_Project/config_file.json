@@ -1,7 +1,10 @@
-{"dataset": "ML1M",
+{"dataset": "ML100k",
 "model": "ItemKNN",
 "k_neighbors": 30,
 "rank_length":10,
 "n_folds": 1,
 "test_size": 0.3,
-"strategy": "upper_degree_centrality"}
+"strategy": "random",
+"metrics": ["PREC@10", "RMSE", "MRR@10", "NDCG@10"],
+"step_size": 10
+}

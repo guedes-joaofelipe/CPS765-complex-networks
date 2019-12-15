@@ -4,6 +4,7 @@ import os
 import logging
 from sklearn.model_selection import train_test_split
 import shutil
+import random
 
 # def create_hash(config_file, limit=5):
 #     with open(config_file) as f:
@@ -59,8 +60,8 @@ class Params():
     @property
     def dict(self):
         return self.__dict__
-
-def filter_dataset(df_degrees, degree_user=None, degree_item=None, split_size=.3, strategy='upper_degree_centrality'):
+        
+def filter_dataset(df_degrees, degree_user=None, degree_item=None, strategy='upper_degree_centrality'):
     degree_user = 1 if degree_user == None else degree_user
     degree_item = 1 if degree_item == None else degree_item
     
@@ -75,9 +76,11 @@ def filter_dataset(df_degrees, degree_user=None, degree_item=None, split_size=.3
         df_result = df_degrees[cond_user & cond_item]    
     
     elif strategy == 'random':
-        df_result, _ = train_test_split(df_degrees, test_size=split_size)
-        df_result.reset_index(drop=True, inplace=True)
-        return df_result
+        unique_users, unique_items = df_degrees['from'].unique(), df_degrees['to'].unique()
+        chosen_users = random.sample(list(unique_users), int(degree_user*unique_users.shape[0]))
+        chosen_items = random.sample(list(unique_items), int(degree_item*unique_items.shape[0]))
+        df_result = df_degrees[df_degrees['from'].isin(chosen_users)]
+        df_result = df_result[df_result['to'].isin(chosen_items)].reset_index(drop=True)
         
     return df_result
 
