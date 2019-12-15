@@ -4,7 +4,7 @@
 "rank_length":10,
 "n_folds": 1,
 "test_size": 0.3,
-"strategy": "random",
-"metrics": ["PREC@10", "RMSE", "MRR@10", "NDCG@10"],
-"step_size": 10
+"strategy": "lower_degree_centrality",
+"metrics": ["PREC@10", "RMSE", "MRR@10", "NDCG@10", "RECALL@10"],
+"step_size": 30
 }

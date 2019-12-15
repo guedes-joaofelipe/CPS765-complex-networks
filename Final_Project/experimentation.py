@@ -44,7 +44,7 @@ def run_model(df_train, df_test, params):
 
 
 def get_overall_sparsity(df):
-    return df.shape[0]/(len(df['user'].unique())*len(df['item'].unique()))
+    return 1-df.shape[0]/(len(df['user'].unique())*len(df['item'].unique()))
 
 def multiprocess_realization(df_degrees, degree_user_thr, degree_item_thr, params, n_fold):
 
@@ -63,6 +63,11 @@ def multiprocess_realization(df_degrees, degree_user_thr, degree_item_thr, param
     eval_results['os'] = get_overall_sparsity(df_filtered)
     eval_results['os_train'] = get_overall_sparsity(df_train)
     eval_results['os_test'] = get_overall_sparsity(df_test)
+    eval_results['n_users'] = df_filtered['user'].unique().shape[0]
+    eval_results['n_users_train'] = df_train['user'].unique().shape[0]
+    eval_results['n_items'] = df_filtered['item'].unique().shape[0]
+    eval_results['n_items_train'] = df_train['item'].unique().shape[0]
+    eval_results['n_evals'] = df_filtered.shape[0]
     
     filepath = os.path.join('.', 'Experiments', params.hash, 
         'fold_'+str(n_fold), 'evaluation_results', eval_results['hash'] + '.json')
@@ -86,8 +91,8 @@ def run_experimentation(df_degrees, df_exp,  n_fold, params):
     logging.info('======================\n')
     logging.info('params: {}'.format(str(params)))
     
-    step_size = 10
-    degree_thr = np.array([float(x)/100.0 for x in np.logspace(2, -2, step_size, dtype=float)])
+    # step_size = 10
+    # degree_thr = np.array([float(x)/100.0 for x in np.logspace(2, -2, step_size, dtype=float)])
     n_users_max = len(df_degrees['from'].unique())
     n_items_max = len(df_degrees['to'].unique())
     logging.info('max number of users: {}'.format(str(n_users_max)))
